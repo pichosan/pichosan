@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @pichosan
-- 👀 I’m interested in bringing FOSS to the AECO industry
-- 🌱 I’m currently learning Python, JS, ifcopenshell and in general how to apply programming to the industry
+- 👋 Hi, I’m @pichosan Mauricio Palomares
+- 👀 I’m interested in bringing BIM through FOSS to the AECO industry
+- 🌱 I’m currently learning JavaScript and Python
 - 💞️ I’m looking to collaborate on BlenderBIM and ifcopenshell
 - 📫 You can reach me @Mauricio_9871 in twitter and at www.linkedin.com/in/mauricio-palomares
 
